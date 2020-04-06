@@ -1,7 +1,7 @@
 ---
 title: First Post!
 summary: Too short to summarize
-date: 2020-4-5
+date: Last Modified
 tags:
   - tech
 ---
