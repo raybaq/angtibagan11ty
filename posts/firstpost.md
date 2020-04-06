@@ -5,7 +5,10 @@ date: Last Modified
 tags:
   - tech
 ---
+
+<!-- Excerpt Start -->
 I have written a number of first posts, on this, that or other blogging platform over the years.  Perhaps that is just to be expected, as I similarly started, and failed to keep up, a diary or journal. 
+<!-- Excerpt End -->
 
 ## Why this time is different
 
