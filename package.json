@@ -23,7 +23,7 @@
   "homepage": "https://github.com/raybaq/angtibagan",
   "devDependencies": {
     "@11ty/eleventy": "^0.11.0-beta.3",
-    "luxon": "^1.22.2",
+    "luxon": "^1.28.1",
     "markdown-it": "^10.0.0",
     "markdown-it-anchor": "^5.2.7"
   },
